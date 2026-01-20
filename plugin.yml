@@ -1,0 +1,10 @@
+name: GunGame
+author: Gianlucaptrs
+version: 1.0.0
+main: de.gianlucaptrs.gungame.Main
+
+commands:
+   gungame:
+   mapchange:
+   stats:
+   resetstats:
